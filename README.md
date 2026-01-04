@@ -17,3 +17,8 @@ Para prevenir la entrada de malware por medios físicos y la fuga de informació
 
 * **GPO "BlockUSB":** Aplicada a nivel de dominio para denegar el acceso de lectura y escritura a todos los dispositivos de almacenamiento extraíble.
 * **Alcance:** Bloqueo total de discos USB, asegurando que solo dispositivos autorizados puedan interactuar con los endpoints.
+
+### Evidencia de Configuración
+![Configuración de Credential Guard](img/Imagen.png)
+
+![Bloqueo de Dispositivos USB](img/Imagen12.png)
